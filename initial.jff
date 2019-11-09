@@ -120,8 +120,8 @@
 		</block>&#13;
 		<block id="23" name="q23">&#13;
 			<tag>Machine23</tag>&#13;
-			<x>975.0</x>&#13;
-			<y>593.0</y>&#13;
+			<x>984.0</x>&#13;
+			<y>616.0</y>&#13;
 		</block>&#13;
 		<block id="24" name="q24">&#13;
 			<tag>Machine24</tag>&#13;
@@ -130,8 +130,8 @@
 		</block>&#13;
 		<block id="25" name="q25">&#13;
 			<tag>Machine25</tag>&#13;
-			<x>939.0</x>&#13;
-			<y>442.0</y>&#13;
+			<x>957.0</x>&#13;
+			<y>504.0</y>&#13;
 		</block>&#13;
 		<block id="26" name="q26">&#13;
 			<tag>Machine26</tag>&#13;
@@ -170,8 +170,8 @@
 		</block>&#13;
 		<block id="33" name="q33">&#13;
 			<tag>Machine33</tag>&#13;
-			<x>1093.0</x>&#13;
-			<y>283.0</y>&#13;
+			<x>1116.0</x>&#13;
+			<y>289.0</y>&#13;
 		</block>&#13;
 		<block id="34" name="q34">&#13;
 			<tag>Machine34</tag>&#13;
@@ -401,8 +401,8 @@
 		</block>&#13;
 		<block id="79" name="q79">&#13;
 			<tag>Machine79</tag>&#13;
-			<x>1416.0</x>&#13;
-			<y>83.0</y>&#13;
+			<x>1843.0</x>&#13;
+			<y>218.0</y>&#13;
 		</block>&#13;
 		<block id="80" name="q80">&#13;
 			<tag>Machine80</tag>&#13;
