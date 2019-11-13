@@ -1300,13 +1300,6 @@
 			<move>R</move>&#13;
 		</transition>&#13;
 		<transition>&#13;
-			<from>56</from>&#13;
-			<to>56</to>&#13;
-			<read/>&#13;
-			<write/>&#13;
-			<move>R</move>&#13;
-		</transition>&#13;
-		<transition>&#13;
 			<from>114</from>&#13;
 			<to>114</to>&#13;
 			<read>a</read>&#13;
